@@ -1,4 +1,4 @@
-![alt text](image.png)
+
 My Awesome Web Project
 This is a simple web page I designed with HTML and CSS.
 
