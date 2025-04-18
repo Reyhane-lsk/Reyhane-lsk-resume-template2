@@ -1,4 +1,5 @@
-
+![alt text](image-1.png)
+![alt text](image-2.png)
 My Awesome Web Project
 This is a simple web page I designed with HTML and CSS.
 
