@@ -1,5 +1,4 @@
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](image.png)
 My Awesome Web Project
 This is a simple web page I designed with HTML and CSS.
 
@@ -17,3 +16,4 @@ Clone this repository: git clonehttps://github.com/Reyhane-lsk/Reyhane-lsk-resum
 Open yug/index.html in a browser.
 Contact
 Feel free to reach out if you have questions!
+![alt text](image-1.png)

@@ -189,3 +189,15 @@ i.fas {
 hr.dim {
   border-color: #1c1c1d4f !important;
 }
+footer {
+  background-color:#1c1c1d;
+  text-align: center;
+  width: 100%;
+  height: 20px;
+  vertical-align: middle;
+  padding: 30px 0;
+  color: aliceblue;
+}
+footer a {
+  color: aliceblue;
+}
